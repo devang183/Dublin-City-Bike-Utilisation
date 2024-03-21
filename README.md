@@ -1,0 +1,5 @@
+# Dublin-City-Bike-Utilisation
+1) Led a comprehensive machine learning project to analyse the impact of the pandemic on city-bike usage, employing data preprocessing pipeline including data cleaning, integration, reduction, and transformation to ensure data quality and readiness for analysis.
+2) Utilised advanced feature engineering techniques to transform time-series data into meaningful attributes, enabling the predictive modelling of bike usage patterns during pre-pandemic, pandemic, and post-pandemic phases with increased accuracy.
+3) Implemented and evaluated multiple machine learning models, including K-Nearest Neighbors, Ridge Regression, and AdaBoost, to predict city-bike usage, achieving a model accuracy with a minimum Mean Squared Error (MSE) of 0.3256.
+4) Presented findings through detailed visualisations, including histograms and line plots, to demonstrate the varying patterns of bike usage across different pandemic phases, providing insights into consumer behaviour changes due to the pandemic.
